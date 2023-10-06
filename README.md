@@ -25,4 +25,6 @@ This script Creates a bad permission service that you can exploit it
  This script checks if the WDigest reg key exists or not if not it will add it to 1 for more info click <a href="https://adsecurity.org/?page_id=1821">here</a>
 
 
+<h1>Collaborators</h1>
 
+- [0xDigimon](https://github.com/0xDigimon)
