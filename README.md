@@ -8,7 +8,6 @@ This repo contains many scripts that help you make your vulnerable ActiveDirecto
 [![Twitter Follow](https://img.shields.io/twitter/follow/discoverscripts.svg?style=social&label=Follow)](https://twitter.com/FadyMo7eb)
 
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" align="center" width="1000" height="3">
-<img src="https://i.pinimg.com/originals/93/c0/e5/93c0e59e7f66f3785f6057b07b8eb721.png"align="center" width="1000">
 
 <h1>The index </h1>
 
