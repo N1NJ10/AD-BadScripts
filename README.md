@@ -23,6 +23,9 @@ This script Creates a bad permission service that you can exploit it
 
  This script checks if the WDigest reg key exists or not if not it will add it to 1 for more info click <a href="https://adsecurity.org/?page_id=1821">here</a>
 
+- [Bad-SSP](https://github.com/N1NJ10/AD-BadScripts/blob/main/Bad-SSP.ps1)
+This script with the help of <a href="https://github.com/ParrotSec/mimikatz/tree/master/x64">mimilib.dll</a> can set the SSP to show you the clear Passwords when any user logoff and login again just try it in the DC 
+
 
 <h1>Collaborators</h1>
 
