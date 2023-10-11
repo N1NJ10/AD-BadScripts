@@ -27,6 +27,9 @@ This script Creates a bad permission service that you can exploit it
   
 This script with the help of <a href="https://github.com/ParrotSec/mimikatz/tree/master/x64">mimilib.dll</a> can set the SSP to show you the clear Passwords when any user logoff and login again just try it in the DC 
 
+- [Never-ScreenOff](https://github.com/N1NJ10/AD-BadScripts/blob/main/Never-ScreenOff.ps1)
+
+This script prevents the screen from turning off when your computer is idle
 
 <h1>Collaborators</h1>
 
