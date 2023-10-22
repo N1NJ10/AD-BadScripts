@@ -33,6 +33,8 @@ This script with the help of <a href="https://github.com/ParrotSec/mimikatz/tree
 
 This script prevents the screen from turning off when your computer is idle
 
-<h1>Collaborators</h1>
+- [Rubeus_Ticket_Space_Remover](https://github.com/N1NJ10/AD-BadScripts/blob/main/Rubeus_Ticket_Space_Remover.ps1)
 
-- [0xDigimon](https://github.com/0xDigimon)
+This script i made it for every time i get the ticket from the rubues i need to remove the padding and spaces manual so this scritp mad it for me it just need one argument -f with the path of the file and it will generate the .kirbi file for me 
+
+ex: Rubeus_Ticket_Space_Remover.ps1 -f my_ticket.txt
